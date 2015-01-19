@@ -35,6 +35,13 @@ body{
 	text-align: center;
 }
 
+section{
+	float:left;
+}
+img{
+	background: url('../img/maze-black.png');
+}
+
 .color-1,
 .color-2,
 .color-3,
