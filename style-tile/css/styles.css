@@ -26,15 +26,15 @@ section {
 
 /*Style Tile for William Hayden*/
 .color-1{
-	background: orange;
+	background: grey;
 }
 
 .color-2{
-	background: green;
+	background: black;
 }
 
 .color-3{
-	background: red;
+	background: yellow;
 }
 /* Show Grid */
 .showgrid {
