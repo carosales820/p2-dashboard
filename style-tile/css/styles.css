@@ -38,7 +38,15 @@ section {
 }
 
 .pattern-1{
-	background: url(../img/mooning.jpg);
+	background: url(../img/mooning.png);
+}
+
+.pattern-2{
+	background: url(../img/maze-black.png);
+}
+
+.pattern-3{
+	background: url(../img/cream-dust.png);
 }
 /* Show Grid */
 .showgrid {
