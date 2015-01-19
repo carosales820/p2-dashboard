@@ -8,8 +8,16 @@ section {
 	margin: 20px 0;
 }
 
-h1{
-	font-family: 'Josefin Sans' bold 700, sans-serif;
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+em{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 body{
@@ -42,7 +50,7 @@ body{
 }
 
 .color-3{
-	background: #F5EE0C;
+	background: ;
 }
 
 .pattern-1{
