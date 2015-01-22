@@ -32,7 +32,7 @@ a:hover{
 }
 
 body{
-	text-align: center;
+	text-align: ;
 }
 
 section{
@@ -40,6 +40,8 @@ section{
 }
 img{
 	background: url('../img/maze-black.png');
+	float: right;
+	margin-right: 200px;
 }
 
 .color-1,
