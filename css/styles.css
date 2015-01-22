@@ -1,11 +1,31 @@
 /*Profile*/
 
 .profile{
-	background: orange;
+	background: url('../img/maze-black.png');
+}
+
+#ui-card{
+	margin-top: 50px;
+	margin-left:25%;
+	
+}
+a:hover{
+	background: #969690;
+	font-color: #F5EE0C;
+	border-radius: 5%;
 }
 
 /*Balance*/
-.balance h1{
-	color: orange;
-	font-size: 3em;
+.balance{
+	background: #969690; 
+}
+
+.balance h2, h3{
+	color: #000;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.balance td{
+	color: #F5EE0C;
+	background: #000;
+	font-family: 'Josefin Sans', sans-serif;
 }
