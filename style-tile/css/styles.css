@@ -1,11 +1,21 @@
 /* Set Your Own Margin & Padding */
-h2, h3, p {
-	margin: 0;
+ em, p{
+ 	margin-left: 50px;
+ }
+
+h1, h2, h3, h4{
+	margin-left: 30px;
 }
 
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
+}
+
+img, .color-1, .color-2, .color-3,
+ .pattern-1, .pattern-2, .pattern-3,
+ .imagery-1, .imagery-2, .imagery-3{
+	border-radius: 5%;
 }
 
 h1 {
@@ -31,9 +41,13 @@ a:hover{
 	color: #F5EE0C;
 }
 
-body{
-	text-align: ;
+.fonts-type{
+	background: #969690;
+	margin-right: 200px;
+	border-radius: 5%;
 }
+
+
 
 section{
 	float:left;
