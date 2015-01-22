@@ -29,3 +29,7 @@ a:hover{
 	background: #000;
 	font-family: 'Josefin Sans', sans-serif;
 }
+
+.balance th{
+	background: #969690;
+}
