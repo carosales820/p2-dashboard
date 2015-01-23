@@ -6,7 +6,7 @@
 
 #ui-card{
 	margin-top: 50px;
-	margin-left:25%;
+	float: left;
 	
 }
 a:hover{
