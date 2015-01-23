@@ -37,3 +37,11 @@ a:hover{
 	background: #000;
 	color: #F5EE0C;
 }
+
+.soar-progress {
+	font-family: 'Josefin Sans', sans-serif;
+	background: url(../img/mooning.png);
+}
+.soar-progress .bar{
+	background: white;
+}
