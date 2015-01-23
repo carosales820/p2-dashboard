@@ -45,3 +45,8 @@ a:hover{
 .soar-progress .bar{
 	background: white;
 }
+
+.calendar table{
+	float: left;
+	
+}
