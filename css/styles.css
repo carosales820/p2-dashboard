@@ -33,3 +33,7 @@ a:hover{
 .balance th{
 	background: #969690;
 }
+.header-menu a:hover{
+	background: #000;
+	color: #F5EE0C;
+}
